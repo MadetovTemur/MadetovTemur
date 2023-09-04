@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **MadetovTemur/MadetovTemur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### I am Temur. <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e472ne2fm99qvy1hyyiykc88j82g4rm2f3j88pav9si&rid=giphy.gif&ct=s" width="32px">
 
 <h1>I am interested in web programming</h1>
 
 <h3> Technologies I'm learning </ h3>
-</ br>
+
+</br>
+
+<img src="https://images.app.goo.gl/4D7MDT4ocnJe9WcY6" width='50px'>
+
+
+
 <img src="https://w7.pngwing.com/pngs/935/63/png-transparent-html-5-logo-web-development-html-computer-icons-world-wide-web-s-html5-icon-miscellaneous-logo-computer-programming-thumbnail.png" width="32px">
 
 <img src="https://e7.pngegg.com/pngimages/726/609/png-clipart-logo-css3-cascading-style-sheets-html-tonic-miscellaneous-angle.png" width="50px">
