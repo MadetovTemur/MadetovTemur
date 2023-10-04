@@ -31,7 +31,7 @@
     <a href="https://t.me/madetov_017" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram" />
     </a>
-    <a href="temur1735@gmail.com target="_blank">
+    <a href="https://mail.google.com/temur1735@gmail.com target="_blank">
         <img src="https://img.shields.io/badge/-Gmail-0A0A0B?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail" />
     </a>
 <p/>
