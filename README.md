@@ -49,19 +49,19 @@
 
 ---
 
-<details>
-    <summary>More about me</summary>
-    <p>
-        I'm a self-taught student, introverted and very observant. <br />
-        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
-    </p>
-    <ul>
-        <li>🎯 Contribute and create open source projects</li>
-        <li>📚 I'm studying Python | Algorithms | Dev Web </li>
-        <li>💬 You can ask me questions, I like to help!</li>
-        <li>🌑 Observing space</li>
-    </ul>
-</details>
+
+More about me
+<p>
+    I'm a self-taught student, introverted and very observant. <br />
+    I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
+</p>
+<ul>
+    <li>🎯 Contribute and create open source projects</li>
+    <li>📚 I'm studying Python | Algorithms | Dev Web </li>
+    <li>💬 You can ask me questions, I like to help!</li>
+    <li>🌑 Observing space</li>
+</ul>
+
 
 <details>
     <summary>My GitHub stats</summary>
